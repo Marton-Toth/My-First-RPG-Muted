@@ -3,11 +3,11 @@
   "name": "My First RPG",
   "description": "Simple role-playing game.",
   "type": "web",
-  "launch_path": "/My-First-RPG/index.html",
+  "launch_path": "/My-First-RPG-Muted/index.html",
   "icons": {
-    "56": "/My-First-RPG/icons/ic_My First RPG_56.png",
-    "112": "/My-First-RPG/icons/ic_My First RPG_112.png",
-    "128": "/My-First-RPG/icons/ic_My First RPG_128.png"
+    "56": "/My-First-RPG-Muted/icons/ic_My First RPG_56.png",
+    "112": "/My-First-RPG-Muted/icons/ic_My First RPG_112.png",
+    "128": "/My-First-RPG-Muted/icons/ic_My First RPG_128.png"
   },
   "developer": {
     "name": "Marton Toth",
